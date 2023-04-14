@@ -3,7 +3,7 @@
     "name": "rick-and-morty",
     "slug": "rick-and-morty",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "be738e2e-cf46-459c-95ed-d1f575e3dfe4"
+      }
+    },
+    "owner": "leonardlib95"
   }
 }
