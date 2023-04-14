@@ -9,7 +9,7 @@ import {
 } from 'phosphor-react-native';
 
 import { ProfileInfo } from '../ProfileInfo';
-import { SettingsItem } from '../SettingsItem';
+import SettingsItem from './SettingsItem';
 
 export default function Settings() {
   return (
